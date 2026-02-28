@@ -1,29 +1,29 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Zijie Zheng",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Jerry Zheng. I'm a computer science student at Seattle Pacific University. I'm interested in learning about software development and exploring new areas that can expand my skills and knowledge as a programmer. Currently learning C++ language with some experience in Java and Python.<br><br>While I am still learning, I enjoy seeking out new learning opportunities and my network. I believe that it is vital to apply the skills learned in classrooms to real world programming and teamwork that encourages growth."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
+  "EMail": "zhengz2@spu.edu",
+  "Phone": "(206) 480-8664",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "LinkedIn": "https://www.linkedin.com/in/jerryzhengsoftwareexpert/",
+  "GitHub": "https://github.com/JerryZheng-3"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I was born in the United States but I am a first generation Chinese immigrant. I did not even know about programming until my 8th grade math class where I learned about Scratch and beginneer game development.<br><br>Starting from then, in my high school years, I began to research about what coding really is and took classes that gave me more interest and background knowledge.<br><br>Being a student at Seattle Pacific University has been an incredible experience. It has allowed me to continue in my growth as a programmer but also grow in my faith.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Graduation": "June 2026",
+  "EducationText": "- Experience in programming throughout high school and into university.<br>- Completed lessons outside of university for Java/Python.",
+  "Employment": "Code Ninjas Queen Anne",
+  "Role": "STEM Instructor",
+  "EmploymentText": "- Working in a team environment.<br>- Learning different programming skills and communication.<br>- Teaching children in a respectful and positive space that encourages learning and growth",
+  "Skills": ["C++", " Java", " Python"],
+  "SkillsText": "Learned C++ and Python in university. Learned Java in high school. Took courses outside of university for both Java and Python.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {

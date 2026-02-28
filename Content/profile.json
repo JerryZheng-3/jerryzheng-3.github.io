@@ -24,7 +24,7 @@
   "EmploymentText": "- Working in a team environment.<br>- Learning different programming skills and communication.<br>- Teaching children in a respectful and positive space that encourages learning and growth",
   "Skills": ["C++", " Java", " Python"],
   "SkillsText": "Learned C++ and Python in university. Learned Java in high school. Took courses outside of university for both Java and Python.",
-  "Resume": "student-resume.pdf"  
+  "Resume": "resume.pdf"  
 },
 "Project1": {
     "Title": "Interesting Project 1",
